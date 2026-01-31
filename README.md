@@ -9,7 +9,7 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages:**  
-  `C` `C++` `Python` 'TypeScript' 'SQL'
+  `C` `C++` `Python` `TypeScript` `SQL`
 
 - **Areas of interest:**   
 
@@ -21,7 +21,7 @@
 ## 📂 Featured Projects
 
 🔹 **CRM system for valuations**  
-> Custom implementation similar to C++ `std::vector`, without using `[]`
+> System for generating valuations, invoices etc.
 
 *(see repositories below 👇)*
 
