@@ -1,4 +1,8 @@
-## Hello 👋
+### Hello 👋 there
+
+My name is Filip and I'm currently studying Computer Science in Poland
+
+##
 
 <!--
 **FTomczyk/FTomczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
