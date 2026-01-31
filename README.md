@@ -1,20 +1,28 @@
-### Hello 👋 there
+# 👋 Hi, I'm Filip
 
-My name is Filip and I'm currently studying Computer Science in Poland
+🎓 Currently IT student at **Lodz University of Technology**
+💻 Mainly programming in **C / C++ / TypeScript / SQL**, sometimes **Python**  
+🧠 Interested in databases:    
 
-##
+---
 
-<!--
-**FTomczyk/FTomczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
 
-Here are some ideas to get you started:
+- **Languages:**  
+  `C` `C++` `Python` 'TypeScript' 'SQL'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Areas of interest:**   
+
+- **Tools:**  
+  `Git` `GitHub` `CLion` `WebStorm` `PyCharm` `VS Code`
+  
+---
+
+## 📂 Featured Projects
+
+🔹 **CRM system for valuations**  
+> Custom implementation similar to C++ `std::vector`, without using `[]`
+
+*(see repositories below 👇)*
+
+---
