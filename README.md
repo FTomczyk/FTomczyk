@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Filip
 
--🎓 Currently IT student at **Lodz University of Technology**
+-🎓 Currently IT student at **Lodz University of Technology**                
 -💻 Mainly programming in **C / C++ / TypeScript / SQL**, sometimes **Python**  
 -🧠 Interested in databases:    
 -🐞 Creating bugs since 2024
