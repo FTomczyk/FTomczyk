@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Filip
 
--🎓 Currently IT student at **Lodz University of Technology**                
+-🎓 Currently IT student at **Łódź University of Technology**                
 -💻 Mainly programming in **C / C++ / TypeScript / SQL**, sometimes **Python**  
 -🧠 Interested in databases, data modeling and backend development   
 -🐞 Creating bugs since 2024
@@ -27,6 +27,8 @@
 ## 📂 Featured Projects
 
 🔹 **CRM system for valuations**  
+> System for generating valuations, invoices etc.
+🔹 **Website for juvenalia at Łódź uniwersity of technology**  
 > System for generating valuations, invoices etc.
 
 *(see repositories below 👇)*
