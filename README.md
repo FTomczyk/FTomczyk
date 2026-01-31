@@ -12,7 +12,12 @@
 - **Languages:**  
   `C` `C++` `Python` `TypeScript` `SQL`
 
-- **Areas of interest:**   
+- **Areas of interest:**
+  - Databases and data modeling
+  - SQL and relational database systems
+  - Backend development
+  - API design
+  - Server-side logic
 
 - **Tools:**  
   `Git` `GitHub` `CLion` `WebStorm` `PyCharm` `VS Code`
