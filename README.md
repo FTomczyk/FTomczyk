@@ -27,9 +27,9 @@
 ## 📂 Featured Projects
 
 🔹 **CRM system for valuations**  
-> System for generating valuations, invoices etc.
+> System for generating valuations, invoices etc.                                  
 🔹 **Website for juvenalia at Łódź uniwersity of technology**  
-> System for generating valuations, invoices etc.
+> Website representing event, with functionality of buying tickets etc.
 
 *(see repositories below 👇)*
 
