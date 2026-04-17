@@ -2,7 +2,7 @@
 
 -🎓 Currently IT student at **Łódź University of Technology**                
 -💻 Mainly programming in **C / C++ / TypeScript / SQL**, sometimes **Python**  
--🧠 Interested in databases, data modeling and backend development, Network Engineering, Cisco Networking,Linux/Windows Admin
+-🧠 Interested in databases, data modeling and backend development, Network Engineering, Cisco Networking,Linux/Windows Admin                        
 -📖 I'm currently learning **C++ / Next.js / PostgresSQL**          
 -🐞 Creating bugs since 2024
 
